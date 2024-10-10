@@ -1,5 +1,3 @@
-# CadeauPourMaCopine
-Un petit site créé comme cadeau spécial pour ma copine ❤️
 <!DOCTYPE html>
 <html lang="fr">
 <head>
