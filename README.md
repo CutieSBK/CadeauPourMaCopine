@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cadeau pour my pretty Princess Teorahau</title>
+    <title>Cadeau pour M'y Princess Teorahau</title> <!-- Changement ici -->
     <style>
         body {
             margin: 0;
@@ -61,7 +62,7 @@
 </head>
 <body>
     <h1>FOREVER</h1>
-    <button class="button" onclick="scrollToMessage()">Clique ici Babe 😌</button>
+    <button class="button" onclick="scrollToMessage()">Cliquez ici</button>
     
     <div id="message" class="message">
         <h2>À ma Prettty princess ❤️</h2>
