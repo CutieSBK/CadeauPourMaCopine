@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cadeau pour ma copine</title>
+    <title>Cadeau pour my pretty Princess Teorahau</title>
     <style>
         body {
             margin: 0;
@@ -67,9 +67,14 @@
         <h2>À ma Prettty princess ❤️</h2>
         <p>
             Merci d'être à mes côtés et de rendre chaque jour spécial. 
-            Cela fait presque deux mois que nous partageons cette belle aventure. 
-            Tu es ma chérie, et je t'aime plus que tout au monde. 
-            Voici à de nombreux autres mois et années ensemble !
+            sa vas faire presque 1 ans et deux mois que nous partageons cette belle aventure. 
+            Et je ne peut qu'etre mais vraiment heureux je sais que c'est dernier temps sa 
+            na pas etait facile pour nous 2 mais je sais que tu et forte et que ensemble
+            nous pouvons tout faire. je crois en n'otre amour et vraiment je ne peut que 
+            me rejouir de t'avoir dans ma vie, je ne veut pas te perdre tu et celle au'il
+            me faut et je te veut toi et aucune autre c'est compris ! Je t'aime plus que 
+            tout tu et l'amour de ma vie et bien plus !
+            You'r CUTIE ❤️
         </p>
     </div>
 
