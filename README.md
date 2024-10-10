@@ -61,7 +61,7 @@
 </head>
 <body>
     <h1>FOREVER</h1>
-    <button class="button" onclick="scrollToMessage()">Cliquez ici</button>
+    <button class="button" onclick="scrollToMessage()">Clique ici 🫶</button>
     
     <div id="message" class="message">
         <h2>À ma Prettty princess ❤️</h2>
