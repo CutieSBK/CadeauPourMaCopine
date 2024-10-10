@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
@@ -113,7 +112,7 @@
 
     <!-- Cadre pour ajouter une photo -->
     <div class="photo-frame">
-        <img src="(https://imgur.com/d84gKtU)" alt="Photo de nous">
+        <img src="https://imgur.com/d84gKtU" alt="Photo de nous">
     </div>
 
     <!-- Cœurs flottants -->
