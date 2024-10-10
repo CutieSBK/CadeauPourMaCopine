@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cadeau pour M'y Princess Teorahau</title> <!-- Changement ici -->
+    <title>Gift for m'y Princess</title>
     <style>
         body {
             margin: 0;
@@ -67,7 +66,7 @@
     <div id="message" class="message">
         <h2>À ma Prettty princess ❤️</h2>
         <p>
-            Merci d'être à mes côtés et de rendre chaque jour spécial. 
+           Merci d'être à mes côtés et de rendre chaque jour spécial. 
             sa vas faire presque 1 ans et deux mois que nous partageons cette belle aventure. 
             Et je ne peut qu'etre mais vraiment heureux je sais que c'est dernier temps sa 
             na pas etait facile pour nous 2 mais je sais que tu et forte et que ensemble
